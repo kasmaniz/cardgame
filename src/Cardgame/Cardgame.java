@@ -1,7 +1,7 @@
 /*
  * Zohaib Kasmani
  * 991545984
- * SYST10199-Web Programming
+ * Software design
  */
 package Cardgame;
 
